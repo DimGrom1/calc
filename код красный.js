@@ -1,0 +1,12 @@
+console.log(22);
+console.log("Силя");
+console.log(111*707089);
+console.log("3"+"10");
+console.log(typeof(27));
+console.log(typeof("Силя"));
+console.log(5==4);
+console.log(5==5);
+console.log(5>5);
+alert("всё хорошо вас забанили");
+alert("Я  же сказал вас забанили");
+alert("всё я вас баню");
